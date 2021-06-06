@@ -4,5 +4,6 @@ public enum Category {
     Horror,
     History,
     Fantasy,
-    Comedy
+    Comedy,
+    SciFi
 }
